@@ -559,7 +559,8 @@ input {
   border-radius: var(--border-radius);
 }
 
-.input::placeholder, select.input:invalid {
+.input::placeholder,
+select.input:invalid {
   color: var(--color-light-gray);
 }
 
